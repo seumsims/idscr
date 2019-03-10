@@ -13,17 +13,17 @@
 <div id="menu">
 <nav>
 
-    <li><a href=""></a></li>
+    <li><a href="#first"></a></li>
 
-    <li><a href=""></a></li>
+    <li><a href="#second"></a></li>
 
-    <li><a href=""></a></li>
+    <li><a href="#third"></a></li>
 
-    <li><a href=""></a></li>
+    <li><a href="#four"></a></li>
 
-    <li><a href=""></a></li>
+    <li><a href="#five"></a></li>
 
-    <li><a href=""></a></li>
+    <li><a href="#last"></a></li>
 
 </nav>
 </div>
