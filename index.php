@@ -1,10 +1,9 @@
-<?php include( "klus.php" ); ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <?php include( "klus.php" ); ?>
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
