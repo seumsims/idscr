@@ -11,7 +11,21 @@
        <h1><?php var_dump( $task -> some );  ?></h1>
    </div>
 <div id="menu">
+<nav>
 
+    <li><a href=""></a></li>
+
+    <li><a href=""></a></li>
+
+    <li><a href=""></a></li>
+
+    <li><a href=""></a></li>
+
+    <li><a href=""></a></li>
+
+    <li><a href=""></a></li>
+
+</nav>
 </div>
 
 <div id="first"></div>
