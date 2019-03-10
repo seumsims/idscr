@@ -23,13 +23,19 @@ $task = new Some();
    <div>
        <h1><?php var_dump( $task -> some );  ?></h1>
    </div>
+
 <div id="first"></div>
+
 <div id="second"></div>
+
 <div id="third"></div>
+
 <div id="four"></div>
+
 <div id="five"></div>
+
 <div id="last"></div>
-<div></div>
+
 </body>
 </html>
 
