@@ -28,17 +28,17 @@
 </nav>
 </div>
 
-<div id="first"></div>
+<div id="first"><h1>this is first</h1></div>
 
-<div id="second"></div>
+<div id="second">this is second</div>
 
-<div id="third"></div>
+<div id="third">this is third</div>
 
-<div id="four"></div>
+<div id="four">this is four</div>
 
-<div id="five"></div>
+<div id="five">this is five</div>
 
-<div id="last"></div>
+<div id="last">this is last</div>
 
 </body>
 </html>
