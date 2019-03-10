@@ -3,7 +3,7 @@
 class Some {
 
 
-public some = "salam";
+public $some = "salam";
 
 }
 
