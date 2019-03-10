@@ -19,7 +19,10 @@ $task = new Some();
     <title>Document</title>
 </head>
 <body>
-    <h1><?php var_dump( $task -> some );  ?></h1>
+   <div>
+       <h1><?php var_dump( $task -> some );  ?></h1>
+   </div>
+
 </body>
 </html>
 
