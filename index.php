@@ -1,16 +1,4 @@
-<?php
-
-class Some {
-
-
-public $some = "salam";
-
-}
-
-$task = new Some();
-
-
-?>
+<?php include( "klus.php" ); ?>
 
 <!DOCTYPE html>
 <html lang="en">
