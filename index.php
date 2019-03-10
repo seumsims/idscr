@@ -10,6 +10,9 @@
    <div>
        <h1><?php var_dump( $task -> some );  ?></h1>
    </div>
+<div id="menu">
+
+</div>
 
 <div id="first"></div>
 
