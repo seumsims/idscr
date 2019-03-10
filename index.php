@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
-   <div>
+   <div id="header" >
        <h1><?php var_dump( $task -> some );  ?></h1>
-   </div>
-<div id="menu">
+
+       <div id="menu">
 <nav>
 
     <a href="#first">first</a>
@@ -27,6 +27,8 @@
 
 </nav>
 </div>
+   </div>
+
 
 <div id="first"><h1>this is first</h1></div>
 
