@@ -1,10 +1,9 @@
-<!--    <?php include( "klus.php" ); ?>-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-
+    <?php include( "klus.php" ); ?>
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
@@ -30,8 +29,8 @@
 </div>
    </div>
 
-
-<div id="first"><h1>this is first</h1></div>
+<section>
+    <div id="first"><h1>this is first</h1></div>
 
 <div id="second">this is second</div>
 
@@ -42,6 +41,10 @@
 <div id="five">this is five</div>
 
 <div id="last">this is last</div>
+
+</section>
+
+
 
 </body>
 </html>
