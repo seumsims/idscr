@@ -1,4 +1,4 @@
-* { display: block; }
+/** { display: block; } this will effect @title */
 div#header {
     position: fixed;
 }
