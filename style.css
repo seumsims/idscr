@@ -1,51 +1,63 @@
 /** { display: block; } this will effect @title */
 body {
 
-    overflow-y: scroll;
+    overflow: scroll;
+    transition: scroll ease 2s;
 
 }
+
 div#header {
+
     position: fixed;
+    transition: all ease 2s;
 }
 
 div#first {
+
     width: 100%;
     height: 500px;
     background: burlywood;
 }
 
 div#second {
+
     width: 100%;
     height: 500px;
     background: #27ccc4;
 }
 
 div#third {
+
     width: 100%;
     height: 500px;
     background: #10bd05;
 }
 
 div#third {
+
     width: 100%;
     height: 500px;
     background: #d2147d;
 }
 
 div#four {
+
     width: 100%;
     height: 500px;
     background: #60f403;
 }
 
 div#five {
+
     width: 100%;
     height: 500px;
     background: #1b1d19;
 }
 
 div#last {
+
     width: 100%;
     height: 500px;
     background: #5433d8;
+    transition: all ease 2s;
 }
