@@ -1,4 +1,9 @@
 /** { display: block; } this will effect @title */
+body {
+
+    overflow-y: scroll;
+
+}
 div#header {
     position: fixed;
 }
